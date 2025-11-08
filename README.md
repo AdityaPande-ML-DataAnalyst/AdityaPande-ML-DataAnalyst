@@ -47,7 +47,7 @@
 |----------|--------------|-------------|
 | 🧠 **Brain Tumor Detection** | CNN model to classify brain MRI images | Python, TensorFlow, Keras |
 | 🌿 **Medical Leaf Identification** | Developed an ML model to identify medicinal plants using image data | Python, Scikit-learn |
-| 🌐 **Beauty Parlor Website** | Online booking and services showcase | HTML, CSS, Flask |
+
 
 
 ---
@@ -63,11 +63,6 @@
 
 ### 🏅 Fun Section
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPande-ML-DataAnalyst&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPande-ML-DataAnalyst&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="Aditya's GitHub Trophies"/>
 </p>
 
-
-
----
-
-⭐ **“Code. Learn. Build. Repeat.”**
