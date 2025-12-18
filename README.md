@@ -43,10 +43,13 @@
 ---
 
 ### 💼 Featured Projects
+
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 **Brain Tumor Detection** | CNN model to classify brain MRI images | Python, TensorFlow, Keras |
-| 🌿 **Medical Leaf Identification** | Developed an ML model to identify medicinal plants using image data | Python, Scikit-learn |
+|--------|-------------|------------|
+| 📊 **Swiggy Sales Dashboard** | Built an interactive Excel dashboard to analyze orders, revenue trends, city-wise performance, and top restaurants using pivot tables and charts. | Excel, Data Cleaning, Data Visualization |
+| 🧪 **Data Quality Analyzer (Ongoing)** | Developed an automated tool to analyze data quality by detecting missing values, duplicates, and inconsistencies with downloadable insights using a Streamlit interface. | Python, Pandas, Streamlit |
+| 🧠 **Brain Tumor Detection** | Developed a CNN-based deep learning model to classify brain MRI images for tumor detection with optimized preprocessing and data augmentation. | Python, TensorFlow, Keras |
+| 🌿 **Medical Leaf Identification** | Built a machine learning model to identify medicinal plants from leaf images using feature extraction and classification algorithms. | Python, Scikit-learn |
 
 
 
