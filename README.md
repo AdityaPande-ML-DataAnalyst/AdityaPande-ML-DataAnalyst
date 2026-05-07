@@ -5,12 +5,7 @@
 
 ### 🌟 About Me
 
--🎓 Final-year IT Engineering student passionate about Data Science and Machine Learning
--🧩 Successfully completed academic projects:
--🧠 CNN-Based Brain Tumor Detection – built a deep learning model to classify MRI images
--🌿 Medical Leaf Identification – developed an ML model to identify medicinal plants using image data
--💡 Currently exploring Firebase, Web App Deployment, and Cloud Integration
--⚡ Fun fact: I love participating in hackathons and solving real-world problems through technology
+Information Technology graduate with hands-on experience in Data Analytics, Machine Learning, and data visualization. Built projects including a CNN-based Brain Tumor Detection system, a Medical Leaf Identification model using image processing, and a Swiggy Sales Dashboard to analyze sales performance, customer trends, and business KPIs using Power BI, SQL, and Python. Skilled in Python, SQL, Power BI, Machine Learning, and problem-solving, with practical exposure through hackathons and real-world projects.
 
 ---
 
