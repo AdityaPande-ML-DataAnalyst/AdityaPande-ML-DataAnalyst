@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aditya Pande</h1>
-<h3 align="center">💻 Data Science & Machine Learning Enthusiast </h3>
+<h3 align="center">💻 IT Graduate | QA Testing & Data Analytics </h3>
 
 ---
 
