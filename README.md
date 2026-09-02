@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 
-Information Technology graduate with hands-on experience in Data Analytics, Machine Learning, and data visualization. Built projects including a CNN-based Brain Tumor Detection system, a Medical Leaf Identification model using image processing, and a Swiggy Sales Dashboard to analyze sales performance, customer trends, and business KPIs using Power BI, SQL, and Python. Skilled in Python, SQL, Power BI, Machine Learning, and problem-solving, with practical exposure through hackathons and real-world projects.
+IT graduate focused on QA Testing and Data Analytics, with hands-on experience in Manual Testing, SQL, Python, Excel, and Power BI. Worked on projects involving functional testing, test case design, data analysis, visualization, and machine learning. Familiar with SDLC, STLC, Bug Life Cycle, Black-Box Testing, and data-driven problem solving.
 
 ---
 
